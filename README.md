@@ -70,5 +70,5 @@ simon-game/
 ## 🙋‍♀️ Author
 
 Made with ❤️ by **LakshayLohan**  
-[GitHub Profile](https://github.com/LakshayLohan)
+Github: [GitHub Profile](https://github.com/LakshayLohan)
 📧 Email: lohanlakshay23@gmail.com
