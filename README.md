@@ -17,7 +17,7 @@ Players must correctly repeat the randomly generated sequence of colors to advan
 
 ## 🚀 Live Demo
 
-Play it here: [Simon Game Demo](https://Aarti2417.github.io/simon-game/)
+Play it here: [Simon Game Demo](https://lakshaylohan.github.io/simon-says-game/)
 
 ---
 
@@ -62,13 +62,13 @@ simon-game/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aarti2417/simon-game.git
-   cd simon-game
+   git clone https://github.com/lakshaylohan/simon-says-game.git
+   cd simon-says-game
 
 ---
 
 ## 🙋‍♀️ Author
 
-Made with ❤️ by **Aarti Rathee**  
-[GitHub Profile](https://github.com/Aarti2417)
-📧 Email: aarti.rathee2002@gmail.com
+Made with ❤️ by **LakshayLohan**  
+[GitHub Profile](https://github.com/LakshayLohan)
+📧 Email: lohanlakshay23@gmail.com
